@@ -29,3 +29,12 @@ pip install -r requirements.txt
 
 ## Status
 In progress.
+
+
+## How to Run
+
+```bash
+python src/generate_data.py
+python src/load_db.py
+python src/explore_queries.py
+```
